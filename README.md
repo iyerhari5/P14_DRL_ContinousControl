@@ -1,4 +1,4 @@
-# Project 2: Continuous Control
+# Project Continuous Control
 ---
 
 This project works with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
